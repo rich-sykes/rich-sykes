@@ -40,5 +40,5 @@ tech_stack = {
 - **Cross-functional Leadership** – Led multi-disciplinary teams across engineering, risk, and business functions
 - **Stakeholder Management** – Managed relationships with senior executives, auditors, and regulatory compliance teams
 
-::post::
- **Let's connect:** [LinkedIn](https://uk.linkedin.com/in/richsykes)
+[! Let's connect]
+[LinkedIn](https://uk.linkedin.com/in/richsykes)
