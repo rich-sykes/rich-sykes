@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rich Sykes
+# by Rich Sykes
 
 I'm a Quantitative Developer and Cloud Engineer with a unique career path spanning automotive engineering and financial services. I build high-performance, scalable systems for risk modelling, emissions optimization, and statistical analysis—always with a focus on automation, testability, and reliability.
 
@@ -40,6 +40,5 @@ tech_stack = {
 - **Cross-functional Leadership** – Led multi-disciplinary teams across engineering, risk, and business functions
 - **Stakeholder Management** – Managed relationships with senior executives, auditors, and regulatory compliance teams
 
-📫 **Let's connect:**  
-- [LinkedIn](https://uk.linkedin.com/in/richsykes)
-- [GitHub](https://github.com/rich-sykes)
+::post::
+ **Let's connect:** [LinkedIn](https://uk.linkedin.com/in/richsykes)
