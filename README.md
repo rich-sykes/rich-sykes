@@ -39,8 +39,8 @@ tech_stack = {
 ---
 ### 👥 Leadership & Communication
 - **Technical Translation** – Communicate complex quantitative concepts to non-technical stakeholders and regulatory bodies
-- **Cross-functional Leadership** – Led multi-disciplinary teams across engineering, risk, and business functions
-- **Stakeholder Management** – Managed relationships with senior executives, auditors, and regulatory compliance teams
+- **Cross-functional Leadership** – Led multi-disciplinary teams across engineering, technology and risk integrating with business functions.
+- **Stakeholder Management** – Managed relationships with senior executives and both internal and external auditors.
 
 > [! CONNECT]
 > [LinkedIn](https://uk.linkedin.com/in/richsykes)
