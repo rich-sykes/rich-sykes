@@ -3,20 +3,23 @@
 I'm a Quantitative Developer and Cloud Engineer with a unique career path spanning automotive engineering and financial services. I build high-performance, scalable systems for risk modelling, emissions optimization, and statistical analysis—always with a focus on automation, testability, and reliability.
 
 ### 🚀 What I Do
-- **Cloud Architecture** – Designed and deployed a cloud-based platform for hosting credit risk models at Investec Bank using Azure Container Apps, Function Apps, and SQL.
+- **Cloud Architecture** – Designed and deployed a cloud-based platform for hosting credit risk models at Investec Bank  using Azure Container Apps, Function Apps, and SQL.
 - **CI/CD & DevOps** – Built robust Azure DevOps pipelines including unit testing, code coverage, vulnerability scanning, and deployment automation.
 - **TDD-First Engineering** – Advocate of clean, test-driven development to maintain software quality in lean teams without dedicated QA or BAs.
 - **Model Deployment** – Automated model pipelines across Python and R, with experience in scaling parallelized optimization tasks in both finance and engineering domains.
 
 ---
 ### 🧰 Tech Stack
-- **Languages**: Python, SQL, R, MATLAB, SQL
-- **Cloud**: Container Apps, Function Apps, Azure SQL, Azure Monitor & DevOps
-- **Data**: SQLAlchemy, Pandas, Pydantic, FastAPI
-- **DevOps**: Azure DevOps (ADO), Docker, GitHub Actions
-- **SDK Development**: Python package design, API client libraries, developer tooling
-- **Testing**: pytest, TDD, code coverage tools, CI security gates
-
+```python
+ tech_stack = { 
+    "Languages": [Python, SQL, R, MATLAB, SQL],
+    "Cloud": [Container Apps, Function Apps, Azure SQL, Azure Monitor & DevOps],
+    "Data": [SQLAlchemy, Pandas, Pydantic, FastAPI],
+    "DevOps": [Azure DevOps (ADO), Docker, GitHub Actions],
+    "SDK Development": [Python package design, API client libraries, developer tooling],
+    "Testing": [pytest, TDD, code coverage tools, CI security gates]
+}
+```
 ---
 ### 🔍 I'm Currently Interested In:
 - High-performance Python APIs
