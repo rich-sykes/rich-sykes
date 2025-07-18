@@ -31,7 +31,7 @@ tech_stack = {
 ---
 ### 🔦 Career Highlights
 - Architected, built, and tested a cloud-native risk model platform from scratch at [**Investec Bank**](https://www.investec.com/). Handling data validation, exception reporting, and high-throughput deployment.
-- Automated emissions testing on race-grade dynamometers at [**Prodrive Automotive Technology**](https://www.prodrive.com).
+- Automated engine testing on race-grade dynamometers at [**Prodrive Automotive Technology**](https://www.prodrive.com).
 - Built CO₂/NVH optimization platforms using advanced neural networks at [**Ford Motor Company**](https://www.ford.co.uk).
 
 ---
