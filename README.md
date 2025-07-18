@@ -1,12 +1,13 @@
-👋 Hi, I’m @rich-sykes
+# Hi, I'm rich-sykes 👋
 
-I’m interested in Python, micro-services, containers, API, and Azure cloud (container apps).
+I'm a Quantitative Developer and Cloud Engineer working at the intersection of data, automation, and scalable architecture. I specialize in designing and deploying credit risk systems in the cloud, with deep experience in:
 
-- 🌱 I’m currently learning (mostly additional setps integrating my Python code development and DevOps as one CI-CD+)
-- 💞️ I’m looking to collaborate on TrackApp, an open source data logger parser with the aim to be the Strava of motorsport.
-- 📫 How to reach me [GitHub](https://github.com/rich-sykes), [LinkedIn](https://www.linkedin.com/in/richsykes/) or [Twitter](https://twitter.com/richsykes_).
+- ☁️ Azure (Container Apps, Function Apps, SQL, DevOps)
+- 🧠 Python for modeling, APIs, and automation
+- 🔁 CI/CD pipelines with ADO, test coverage, and security checks
+- 🔍 TDD and clean software architecture
 
-<!---
-rich-sykes/rich-sykes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+My career spans industries from automotive engineering to banking, and my GitHub is where I share open-source tools, experiments, and automation scripts that reflect my approach to clean, scalable, and secure development.
+
+🔗 [LinkedIn](https://uk.linkedin.com/in/richsykes)
