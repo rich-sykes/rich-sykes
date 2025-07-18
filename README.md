@@ -11,13 +11,13 @@ I'm a Quantitative Developer and Cloud Engineer with a unique career path spanni
 ---
 ### 🧰 Tech Stack
 ```python
- tech_stack = { 
-    "Languages": [Python, SQL, R, MATLAB, SQL],
-    "Cloud": [Container Apps, Function Apps, Azure SQL, Azure Monitor & DevOps],
-    "Data": [SQLAlchemy, Pandas, Pydantic, FastAPI],
-    "DevOps": [Azure DevOps (ADO), Docker, GitHub Actions],
-    "SDK Development": [Python package design, API client libraries, developer tooling],
-    "Testing": [pytest, TDD, code coverage tools, CI security gates]
+tech_stack = { 
+    "Languages": ["Python", "SQL", "R", "MATLAB", "Bash"],
+    "Cloud": ["Container Apps", "Function Apps", "Azure SQL", "Azure Monitor", "DevOps"],
+    "Data": ["SQLAlchemy", "Pandas", "Pydantic", "FastAPI"],
+    "DevOps": ["Azure DevOps", "Docker", "GitHub Actions"],
+    "SDK Development": ["Python package design", "API client libraries", "developer tooling"],
+    "Testing": ["pytest", "TDD", "code coverage tools", "CI security gates"]
 }
 ```
 ---
@@ -25,12 +25,12 @@ I'm a Quantitative Developer and Cloud Engineer with a unique career path spanni
 - High-performance Python APIs
 - Python SDK development and developer experience optimization
 - Infrastructure as Code (IaC) with Bicep/Terraform
-- Model deployment best practices in regulated environments IFRS9 & IRB- Led the architecture, build, and testing of a cloud-native risk model platform from scratch at Investec Bank, managing stakeholder expectations across risk, technology, and compliance teams.
+- Model deployment best practices in regulated environments (IFRS9 & IRB)
 - Smarter data pipelines and observability for risk systems
 
 ---
 ### 🔦 Career Highlights
-- Architected, built, and tested a cloud-native risk model platform from scratch at [**Investec Bank**](https://www.investec.com/), handling data validation, exception reporting, and high-throughput deployment.
+- Architected, built, and tested a cloud-native risk model platform from scratch at [**Investec Bank**](https://www.investec.com/). Handling data validation, exception reporting, and high-throughput deployment.
 - Automated emissions testing on race-grade dynamometers at [**Prodrive Automotive Technology**](https://www.prodrive.com).
 - Built CO₂/NVH optimization platforms using advanced neural networks at [**Ford Motor Company**](https://www.ford.co.uk).
 
