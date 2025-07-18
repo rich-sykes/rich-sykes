@@ -1,10 +1,10 @@
-lol# by Rich Sykes
+# Rich Sykes
 
-I'm a Quantitative Developer and Cloud Engineer with a unique career path spanning automotive engineering and financial services. I build high-performance, scalable systems for risk modelling, emissions optimization, and statistical analysis—always with a focus on automation, testability, and reliability.
+I'm a Senior Quantitative Developer and Cloud Engineer with a unique career path spanning automotive engineering, analytics and financial services. I have built high-performance, scalable systems for risk modelling, emissions optimization, and statistical analysis — always with a focus on automation, testability, and reliability.
 
 ### 🚀 What I Do
-- **Cloud Architecture** – Designed and deployed a cloud-based platform for hosting credit risk models at Investec Bank  using Azure Container Apps, Function Apps, and SQL.
-- **CI/CD & DevOps** – Built robust Azure DevOps pipelines including unit testing, code coverage, vulnerability scanning, and deployment automation.
+- **Cloud Architecture** – Designed and deployed a cloud native platform for hosting credit risk models at Investec Bank  using Azure Container Apps, Azure Function Apps, and  Azure SQL.
+- **CI/CD & DevOps** – Built robust Azure DevOps pipelines including unit testing (PyTest), code coverage, vulnerability scanning (Wiz/Dependabot), and deployment automation.
 - **TDD-First Engineering** – Advocate of clean, test-driven development to maintain software quality in lean teams without dedicated QA or BAs.
 - **Model Deployment** – Automated model pipelines across Python and R, with experience in scaling parallelized optimization tasks in both finance and engineering domains.
 
@@ -42,5 +42,5 @@ tech_stack = {
 - **Cross-functional Leadership** – Led multi-disciplinary teams across engineering, technology and risk integrating with business functions.
 - **Stakeholder Management** – Managed relationships with senior executives and both internal and external auditors.
 
-> [! CONNECT]
-> [LinkedIn](https://uk.linkedin.com/in/richsykes)
+> [!TIP] Connect  
+> 📇 You can find me on [LinkedIn](https://uk.linkedin.com/in/richsykes)
