@@ -22,11 +22,13 @@ tech_stack = {
 ```
 ---
 ### 🔍 I'm Currently Interested In:
-- High-performance Python APIs
-- Python SDK development and developer experience optimization
-- Infrastructure as Code (IaC) with Bicep/Terraform
-- Model deployment best practices in regulated environments (IFRS9 & IRB)
-- Smarter data pipelines and observability for risk systems
+- ⚙️ High-performance Python APIs
+- 🧰 Python SDK development and developer experience optimization
+- 🏗️ Infrastructure as Code (IaC) with Bicep/Terraform
+- 📦 Model deployment best practices in regulated environments (IFRS9 & IRB)
+- 🔄 Smarter data pipelines and observability for risk systems
+- 🤖 AI-assisted code optimization and developer productivity tooling
+- 💬 Natural language to SQL interfaces for faster analytical insights and stakeholder interaction
 
 ---
 ### 🔦 Career Highlights
