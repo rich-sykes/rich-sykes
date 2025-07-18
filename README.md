@@ -8,6 +8,7 @@ I'm a Quantitative Developer and Cloud Engineer with a unique career path spanni
 - **TDD-First Engineering** – Advocate of clean, test-driven development to maintain software quality in lean teams without dedicated QA or BAs.
 - **Model Deployment** – Automated model pipelines across Python and R, with experience in scaling parallelized optimization tasks in both finance and engineering domains.
 
+---
 ### 🧰 Tech Stack
 - **Languages**: Python, SQL, R, MATLAB, SQL
 - **Cloud**: Container Apps, Function Apps, Azure SQL, Azure Monitor & DevOps
@@ -16,17 +17,19 @@ I'm a Quantitative Developer and Cloud Engineer with a unique career path spanni
 - **SDK Development**: Python package design, API client libraries, developer tooling
 - **Testing**: pytest, TDD, code coverage tools, CI security gates
 
-### 🔦 Career Highlights
-- Architected, built, and tested a cloud-native risk model platform from scratch at [**Investec Bank**](https://www.investec.com/), handling data validation, exception reporting, and high-throughput deployment.
-- Automated emissions testing on race-grade dynamometers at [**Prodrive Automotive Technology**](https://www.prodrive.com).
-- Built CO₂/NVH optimization platforms using advanced neural networks at [**Ford Motor Company**](https://www.ford.co.uk).
-
+---
 ### 🔍 I'm Currently Interested In:
 - High-performance Python APIs
 - Python SDK development and developer experience optimization
 - Infrastructure as Code (IaC) with Bicep/Terraform
 - Model deployment best practices in regulated environments IFRS9 & IRB- Led the architecture, build, and testing of a cloud-native risk model platform from scratch at Investec Bank, managing stakeholder expectations across risk, technology, and compliance teams.
 - Smarter data pipelines and observability for risk systems
+
+---
+### 🔦 Career Highlights
+- Architected, built, and tested a cloud-native risk model platform from scratch at [**Investec Bank**](https://www.investec.com/), handling data validation, exception reporting, and high-throughput deployment.
+- Automated emissions testing on race-grade dynamometers at [**Prodrive Automotive Technology**](https://www.prodrive.com).
+- Built CO₂/NVH optimization platforms using advanced neural networks at [**Ford Motor Company**](https://www.ford.co.uk).
 
 ---
 ### 👥 Leadership & Communication
