@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Richard Sykes — quantitative systems and platform architecture</title>
+  <desc id="desc">Complex models. Clear interfaces. Python, Azure and regulated analytics. An abstract schematic connects data, models and decisions.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#09121e"/>
+      <stop offset="1" stop-color="#101f2e"/>
+    </linearGradient>
+    <linearGradient id="node" x2="0" y2="1">
+      <stop stop-color="#192d3c"/>
+      <stop offset="1" stop-color="#102130"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#668392" opacity="0.24"/>
+    </pattern>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+      .signal { stroke-dasharray: 3 17; animation: flow 6s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -100; } }
+      @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="url(#background)"/>
+  <path d="M56 58H1144M56 307H1144" stroke="#284252" stroke-width="1"/>
+  <rect x="678" y="77" width="466" height="212" fill="url(#grid)"/>
+  <path d="M662 86V278" stroke="#284252" stroke-width="1"/>
+  <g class="mono" font-size="11" letter-spacing="1.5">
+    <text x="56" y="39" fill="#86e1cd">RS / ENGINEERING</text>
+    <text x="1144" y="39" fill="#90a8b7" text-anchor="end">SYSTEMS THINKING. BUILT IN.</text>
+    <text x="56" y="333" fill="#90a8b7">RESEARCH → ENGINEERING → DELIVERY</text>
+    <text x="1144" y="333" fill="#86e1cd" text-anchor="end">EXPLICIT · TESTABLE · OBSERVABLE</text>
+  </g>
+  <g class="sans">
+    <text x="56" y="111" font-size="12" font-weight="600" letter-spacing="2.1" fill="#90a8b7">QUANTITATIVE SYSTEMS / PLATFORM ARCHITECTURE</text>
+    <text x="51" y="191" font-size="77" font-weight="650" letter-spacing="-3" fill="#f0f6fa">Richard Sykes</text>
+    <text x="56" y="236" font-size="25" font-weight="400" letter-spacing="-0.5" fill="#86e1cd">Complex models. Clear interfaces.</text>
+  </g>
+  <text x="57" y="273" class="mono" font-size="13" letter-spacing="1.1" fill="#90a8b7">PYTHON · AZURE · REGULATED ANALYTICS</text>
+  <g fill="none" stroke="#3b5d6d" stroke-width="1.4">
+    <path d="M697 177H717M797 177H887M967 177H1057M1137 177H1156"/>
+    <path d="M757 137V102H1097V137" stroke-dasharray="3 6" opacity="0.65"/>
+    <path d="M757 217V264H927V217" opacity="0.65"/>
+  </g>
+  <path d="M697 177H1156" fill="none" stroke="#86e1cd" stroke-width="2.4" class="signal"/>
+  <g fill="url(#node)" stroke="#416272" stroke-width="1.2">
+    <rect x="717" y="137" width="80" height="80" rx="18"/>
+    <rect x="887" y="137" width="80" height="80" rx="18"/>
+    <rect x="1057" y="137" width="80" height="80" rx="18"/>
+  </g>
+  <g class="mono" font-size="10" fill="#90a8b7" letter-spacing="1.2" text-anchor="middle">
+    <text x="757" y="123">01</text>
+    <text x="927" y="123">02</text>
+    <text x="1097" y="123">03</text>
+  </g>
+  <g stroke="#86e1cd" stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M741 164H773M741 177H763M741 190H769"/>
+    <path d="M1080 177H1095M1095 177V164H1110M1095 177V190H1110"/>
+    <path d="M1105 160L1110 164L1105 168M1105 186L1110 190L1105 194"/>
+  </g>
+  <g fill="#86e1cd">
+    <circle cx="914" cy="164" r="2.8"/><circle cx="927" cy="164" r="2.8"/><circle cx="940" cy="164" r="2.8"/>
+    <circle cx="914" cy="177" r="2.8"/><circle cx="927" cy="177" r="4"/><circle cx="940" cy="177" r="2.8"/>
+    <circle cx="914" cy="190" r="2.8"/><circle cx="927" cy="190" r="2.8"/><circle cx="940" cy="190" r="2.8"/>
+  </g>
+  <g class="mono" font-size="12" fill="#d2e1e9" letter-spacing="1.6" text-anchor="middle">
+    <text x="757" y="244">DATA</text>
+    <text x="927" y="244">MODELS</text>
+    <text x="1097" y="244">DECISIONS</text>
+  </g>
+  <g fill="#86e1cd">
+    <circle cx="927" cy="102" r="3"/>
+    <circle cx="837" cy="264" r="3"/>
+  </g>
+</svg>

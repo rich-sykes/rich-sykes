@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="650" viewBox="0 0 720 650" role="img" aria-labelledby="title desc">
+  <title id="title">Richard Sykes — quantitative systems and platform architecture</title>
+  <desc id="desc">Complex models. Clear interfaces. Python, Azure and regulated analytics. An abstract schematic connects data, models and decisions.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#f5f7f5"/>
+      <stop offset="1" stop-color="#e9f0ef"/>
+    </linearGradient>
+    <linearGradient id="node" x2="0" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e5efeb"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#86a39b" opacity="0.24"/>
+    </pattern>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+      .signal { stroke-dasharray: 3 17; animation: flow 6s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -100; } }
+      @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+    </style>
+  </defs>
+  <rect width="720" height="650" rx="16" fill="url(#background)"/>
+  <path d="M48 72H672M48 587H672" stroke="#c2d3cb" stroke-width="1"/>
+  <g class="mono" font-size="17" letter-spacing="1.3">
+    <text x="48" y="47" fill="#126854">RS / ENGINEERING</text>
+    <text x="672" y="47" fill="#4d665e" text-anchor="end">PYTHON · AZURE</text>
+  </g>
+  <g class="sans">
+    <text x="48" y="120" font-size="18" font-weight="600" letter-spacing="1.7" fill="#4d665e">QUANTITATIVE SYSTEMS</text>
+    <text x="48" y="148" font-size="18" font-weight="600" letter-spacing="1.7" fill="#4d665e">PLATFORM ARCHITECTURE</text>
+    <text x="43" y="230" font-size="82" font-weight="650" letter-spacing="-3" fill="#102e2c">Richard Sykes</text>
+    <text x="48" y="282" font-size="30" font-weight="400" letter-spacing="-0.5" fill="#126854">Complex models. Clear interfaces.</text>
+  </g>
+  <text x="49" y="324" class="mono" font-size="17" letter-spacing="1.2" fill="#4d665e">REGULATED ANALYTICS / SYSTEMS ENGINEERING</text>
+  <rect x="48" y="356" width="624" height="207" fill="url(#grid)"/>
+  <g fill="none" stroke="#94afa4" stroke-width="1.5">
+    <path d="M64 449H100M196 449H312M408 449H524M620 449H656"/>
+    <path d="M148 401V376H572V401" stroke-dasharray="3 6" opacity="0.65"/>
+  </g>
+  <path d="M64 449H656" fill="none" stroke="#126854" stroke-width="2.7" class="signal"/>
+  <g fill="url(#node)" stroke="#a4bcb1" stroke-width="1.5">
+    <rect x="100" y="401" width="96" height="96" rx="20"/>
+    <rect x="312" y="401" width="96" height="96" rx="20"/>
+    <rect x="524" y="401" width="96" height="96" rx="20"/>
+  </g>
+  <g stroke="#126854" stroke-width="2.5" stroke-linecap="round" fill="none">
+    <path d="M128 433H168M128 449H157M128 465H163"/>
+    <path d="M552 449H570M570 449V433H590M570 449V465H590"/>
+    <path d="M584 428L590 433L584 438M584 460L590 465L584 470"/>
+  </g>
+  <g fill="#126854">
+    <circle cx="344" cy="433" r="3.4"/><circle cx="360" cy="433" r="3.4"/><circle cx="376" cy="433" r="3.4"/>
+    <circle cx="344" cy="449" r="3.4"/><circle cx="360" cy="449" r="4.8"/><circle cx="376" cy="449" r="3.4"/>
+    <circle cx="344" cy="465" r="3.4"/><circle cx="360" cy="465" r="3.4"/><circle cx="376" cy="465" r="3.4"/>
+    <circle cx="360" cy="376" r="3.4"/>
+  </g>
+  <g class="mono" font-size="20" fill="#254c42" letter-spacing="1.6" text-anchor="middle">
+    <text x="148" y="539">DATA</text>
+    <text x="360" y="539">MODELS</text>
+    <text x="572" y="539">DECISIONS</text>
+  </g>
+  <text x="360" y="625" class="mono" font-size="18" fill="#126854" letter-spacing="1.6" text-anchor="middle">EXPLICIT · TESTABLE · OBSERVABLE</text>
+</svg>
